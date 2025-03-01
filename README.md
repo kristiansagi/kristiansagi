@@ -11,3 +11,5 @@ I’m a tech founder who scaled **Playtech Mobile** to $120M and led **Dynatrace
 **Fun fact**: I once ran a rabbit farm—proof I can herd more than code and teams!
 
 Swing by my site for the full scoop or check my pinned projects below.
+
+![Kristián's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristiansagi&show_icons=true&theme=dark)
