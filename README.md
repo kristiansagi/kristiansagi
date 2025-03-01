@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I’m Kristián Sägi! 🚀
 
-<!--
-**kristiansagi/kristiansagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a tech founder who scaled **Playtech Mobile** to $120M and led **Dynatrace Tallinn** till 2025. These days, I rebuild vintage bikes, shoot life through my lens, and plot something big. Once upon a time, I ran a rabbit farm—yep, really.
 
-Here are some ideas to get you started:
+- 🌐 **Dive in**: [kristiansagi.com](https://kristiansagi.com)  
+- ✍️ **Stories**: [blog.kristiansagi.com](https://blog.kristiansagi.com)  
+- 🛠️ **Tech roots**: Systems scaling, mobile chaos-taming  
+- ⚙️ **Now**: Bike restoration | Photography | [Next chapter…]  
+- 📫 **Reach me**: kristian@kristiansagi.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fun fact**: I once ran a rabbit farm—proof I can herd more than code and teams!
+
+Swing by my site for the full scoop or check my pinned projects below.
