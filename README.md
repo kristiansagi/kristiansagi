@@ -1,4 +1,4 @@
-# Hey, I’m Kristián Sägi! 🚀
+# Hey, I’m Kristián Sagi! 🚀
 
 I’m a tech founder who scaled **Playtech Mobile** to $120M and led **Dynatrace Tallinn** till 2025. These days, I rebuild vintage bikes, shoot life through my lens, and plot something big. Once upon a time, I ran a rabbit farm—yep, really.
 
